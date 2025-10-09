@@ -1,8 +1,14 @@
 /* Ref: https://codepen.io/AllThingsSmitty/pen/MyqmdM */
 /* general styling */
 body {
+  color: #ffffff;
+  background-color: #121212;
   font-family: "Open Sans", sans-serif;
   line-height: 1.25;
+}
+
+a {
+  color: #5f87ff;
 }
 
 table {
@@ -20,7 +26,7 @@ table caption {
 }
 
 table tr {
-  background-color: #f8f8f8;
+  background-color: #3b3b3b;
   border: 1px solid #ddd;
   padding: .35em;
 }
